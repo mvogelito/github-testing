@@ -1,0 +1,9 @@
+site_name: Test docs
+nav:
+  - Home: index.md
+  - Test: test-home.md
+  - New level:
+    - Second: second-doc.md
+theme: 
+  name: material
+  include_sidebar: false
